@@ -1,6 +1,8 @@
 # Hey, I'm Shridhar Mugalkhod, a Full Stack Developer! 👋
 
-I'm a results-driven Full Stack Developer with 2+ years of experience in designing, developing, and deploying web applications. I'm passionate about creating clean and efficient code, solving complex problems, and staying up to date with the latest technologies.
+Software Development Engineer with 2.6 years of in-depth experience specializing in the creation of high-performance web applications that provide real-time insights and solutions for complex problems.I graduated with a bachelor of engineering degree in computer science from SJB Institute of Technology in 2020, where I learned the fundamentals of programming, data structures, algorithms, and databases.
+
+Passionate about adopting modern development practices, continuously integrating feedback, and collaborating with cross-functional teams to drive product success.Committed to delivering high-quality code and solutions that cater to evolving business needs. Always driven by the goal to produce top-tier, future-ready digital products that align with business goals.
 
 ## Tech Stack
 
